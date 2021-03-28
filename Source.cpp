@@ -1,3 +1,5 @@
+// this is my first windows
+
 #include <windows.h>
 #include "resource.h"
 #include <stdio.h>
